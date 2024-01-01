@@ -1,4 +1,4 @@
-Attendance System Using QR Code + Email Send (when the students attend)
+<h1>Attendance System Using QR Code + Email Send (when the students attend)</h1>
 
 using: 
 

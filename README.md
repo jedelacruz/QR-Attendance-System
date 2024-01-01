@@ -1,11 +1,11 @@
-<h1>Attendance System Using QR Code + Email Send (when the students attend)</h1>
+<h1>Attendance System Using QR Code + Email Send</h1>
 
-using: 
+using:<br><br>
 
-google sheets
-google docs
-google forms
-google scripts
-html
-css 
-js
+- google sheets<br>
+- google docS<br>
+- google forms<br>
+- google scripts<br>
+- html<br>
+- css <br>
+- js<br>

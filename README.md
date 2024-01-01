@@ -1,6 +1,6 @@
 <h1>Attendance System Using QR Code + Email Send</h1>
 
-using:<br><br>
+using:<br>
 
 - google sheets<br>
 - google docS<br>
